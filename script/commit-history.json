@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "216b764d7f10c0b35954f9555d8ca11b44a74ece",
     "author": "Isaac71412079",
     "commit": {
       "date": "2025-11-20T15:11:23.000Z",
       "message": "primer commit",
-      "url": "https://github.com/Isaac71412079/ProyectoPruebaTDDLab/commit/HEAD"
+      "url": "https://github.com/Isaac71412079/ProyectoPruebaTDDLab/commit/216b764d7f10c0b35954f9555d8ca11b44a74ece"
     },
     "stats": {
       "total": 29904,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Isaac71412079",
+    "commit": {
+      "date": "2025-11-28T16:23:19.000Z",
+      "message": "second",
+      "url": "https://github.com/Isaac71412079/ProyectoPruebaTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 24,
+      "additions": 21,
+      "deletions": 3,
+      "date": "2025-11-28"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
